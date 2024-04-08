@@ -5,4 +5,3 @@ NODE_CLASS_MAPPINGS = {
     "LoadImageFromUrlOrPath": LoadImageByUrlOrPath,
 }
 
-print("Loading print hello world node...")
