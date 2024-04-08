@@ -1,5 +1,7 @@
 A simple node to load image from local path or http url.
 
+You can find this node from "image" category.
+
 ![](https://i.postimg.cc/XY0CLx3Q/image.png)
 
 ```json
