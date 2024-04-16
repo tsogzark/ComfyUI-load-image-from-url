@@ -64,7 +64,7 @@ class LoadImageByUrlOrPath:
         print(url_or_path)
         img, name = load_image(url_or_path)
         img_out, mask_out = pil2tensor(img)
-        return (img_out,)
+        return (img_out, mask_out)
 
 
 if __name__ == "__main__":
