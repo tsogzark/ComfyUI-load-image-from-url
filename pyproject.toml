@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-load-image-from-url"
+description = "A simple node to load image from local path or http url.\nYou can find this node from 'image' category."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/tsogzark/ComfyUI-load-image-from-url"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-load-image-from-url"
+Icon = ""
